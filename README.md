@@ -37,8 +37,8 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 
-'''
 ## index.html
+'''
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -85,9 +85,10 @@ Upload to GitHub Pages for free hosting.
   <script src="script.js"></script>
 </body>
 </html>
+'''
 
 ## script.js
-
+'''
 
 function addTask() {
     const taskInput = document.getElementById("taskInput");
