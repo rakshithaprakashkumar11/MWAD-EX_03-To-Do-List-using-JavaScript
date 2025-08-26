@@ -1,5 +1,5 @@
 # MWAD-EX_03-To-Do-List-using-JavaScript
-## Date:
+## Date:26/08/2025
 
 ## AIM
 To create a To-do Application with all features using JavaScript.
