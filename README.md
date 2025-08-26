@@ -36,9 +36,8 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-
-## index.html
-'''
+### Index.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -85,10 +84,9 @@ Upload to GitHub Pages for free hosting.
   <script src="script.js"></script>
 </body>
 </html>
-'''
-
-## script.js
-'''
+```
+### sciprt.js 
+```
 
 function addTask() {
     const taskInput = document.getElementById("taskInput");
@@ -116,15 +114,11 @@ function addTask() {
       taskInput.value = "";
     }
   }
-
-  '''
-
+```
 
 ## OUTPUT
 
-
-<img width="1428" height="797" alt="Screenshot 2025-08-26 084032" src="https://github.com/user-attachments/assets/02206d82-394d-4abd-812a-38276c7736c1" />
-
+<img width="1428" height="797" alt="Screenshot 2025-08-26 084032" src="https://github.com/user-attachments/assets/63b35c79-4d1a-4596-a7d8-29c131f34fbc" />
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
