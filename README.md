@@ -86,7 +86,6 @@ Upload to GitHub Pages for free hosting.
 </body>
 </html>
 
-'''
 ## script.js
 
 
